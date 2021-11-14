@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\bin\Debug\AlphaChannelProcessing.exe.config
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\bin\Debug\AlphaChannelProcessing.exe
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\bin\Debug\AlphaChannelProcessing.pdb
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\obj\Debug\AlphaChannelProcessing.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\obj\Debug\AlphaChannelProcessing.Form1.resources
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\obj\Debug\AlphaChannelProcessing.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\obj\Debug\AlphaChannelProcessing.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\obj\Debug\AlphaChannelProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\obj\Debug\AlphaChannelProcessing.exe
+C:\Users\Дмитрий\source\repos\AlphaChannelProcessing\AlphaChannelProcessing\obj\Debug\AlphaChannelProcessing.pdb
